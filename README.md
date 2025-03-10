@@ -1,3 +1,21 @@
+# N2-Test-Light
+
+ <img src="https://github.com/user-attachments/assets/0dde9b90-c04f-4d01-91c1-ceba30074966" width="200">
+ <img src="https://github.com/user-attachments/assets/e84a00ca-8c1c-4737-888a-a2023ebbec05" width="200">
+ <img src="https://github.com/user-attachments/assets/c85d3115-6d70-4b92-97fb-4c8177105c75" width="200">
+ <img src="https://github.com/user-attachments/assets/fe8b4e51-147c-4358-8b44-22e34de33508" width="200">
+
+
+# App features and introduction
+
+This is an app that allows you to test the Japanese Language Proficiency Test JLPT N2.
+
+Provides reading questions submitted to the exam.
+
+Provides listening questions to be submitted to the exam.
+
+If you touch an incorrect answer, you'll see a red view and a green view for the correct answer.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
