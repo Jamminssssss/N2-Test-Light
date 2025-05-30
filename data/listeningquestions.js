@@ -1,6 +1,6 @@
 const listeningQuestions = [
     {
-      question: '1ばん',
+      question: '第1部 1ばん',
       audio: 'n2q1.mp3', // Android raw 리소스 파일 이름 (확장자 제외)
       options: [
         { id: 1, text: '先週の会議の記録を作成する' },
@@ -55,7 +55,7 @@ const listeningQuestions = [
       correctAnswer: 3,
     },
     {
-      question: '1ばん',
+      question: '第2部 1ばん',
       audio: 'n2q6.mp3', // Android raw 리소스 파일 이름 (확장자 제외)
       options: [
         { id: 1, text: '近所で起こった事件について調べるため' },
@@ -102,10 +102,10 @@ const listeningQuestions = [
       question: '5ばん',
       audio: 'n2q10.mp3', // Android raw 리소스 파일 이름 (확장자 제외)
       options: [
-        { id: 1, text: 'すぐに社会に役立つ研究が少ないこと' },
+        { id: 1, text: '基礎研究が重視されなくなること' },
         { id: 2, text: '産業界の協力が得られなくなること' },
         { id: 3, text: '実用化までに時間がかかりすぎること' },
-        { id: 4, text: 'きそ研究がじゅうしされなくなること' },
+        { id: 4, text: '基礎研究が重視されなくなること' },
       ],
       correctAnswer: 4,
     },
@@ -121,7 +121,7 @@ const listeningQuestions = [
       correctAnswer: 1,
     },
     {
-      question: '1ばん',
+      question: '第3部 1ばん',
       audio: 'n2q12.mp3', // Android raw 리소스 파일 이름 (확장자 제외)
       options: [
         { id: 1, text: '1' },
@@ -318,7 +318,7 @@ const listeningQuestions = [
       correctAnswer: 1,
     },
     {
-      question: '質問１',
+      question: '質問1',
       audio: 'n2q31.mp3', // Android raw 리소스 파일 이름 (확장자 제외)
       options: [
         { id: 1, text: '北中通り' },
