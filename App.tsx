@@ -17,17 +17,17 @@ const isIPad = Platform.OS === 'ios' && Platform.isPad;
 
 // 광고 단위 ID 설정 (iOS와 Android에서 다르게 설정)
 const topBannerAdUnitId = Platform.select({
-  ios: 'ca-app-pub-3940256099942544/2435281174',
+  ios: 'ca-app-pub-9940677842340433/8442954037',
   android: 'ca-app-pub-3940256099942544/6300978111',
 });
 
 const bottomBannerAdUnitId = Platform.select({
-  ios: 'ca-app-pub-3940256099942544/2435281174',
+  ios: 'ca-app-pub-9940677842340433/9191825277',
   android: 'ca-app-pub-3940256099942544/6300978111',
 });
 
 const appOpenAdUnitId = Platform.select({
-  ios: 'ca-app-pub-3940256099942544/5575463023',
+  ios: 'ca-app-pub-9940677842340433/9754963879',
   android: 'ca-app-pub-3940256099942544/9257395921',
 });
 

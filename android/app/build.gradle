@@ -82,7 +82,7 @@ android {
         applicationId "com.n2testapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 8
+        versionCode 9
         versionName "N2 Test Light"
     }
     signingConfigs {
